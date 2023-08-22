@@ -8,7 +8,7 @@
 <li>SQL개발자(SQLD)</li> 
 
 <div><h2>📖 Contact</h2></div>
-<span><a href="https://w2as2l.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://snowwhite1106.tistory.com/"/></a>  <a href="mailto:sophia991106@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeflection@gmail.com"/></a></span>
+<span><a href="https://w2as2l.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>  <a href="mailto:leeflection@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeflection@gmail.com"/></a></span>
 <div><h2>📚 STACKS</h2></div>
 <div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
